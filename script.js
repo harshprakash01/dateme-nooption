@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Come here baby";
   gif.src =
-    "https://images-ext-1.discordapp.net/external/8nVg4Hxit2sS-kTgoz3CKDQA9rXc5jIPTZlqys0a6-I/https/media.tenor.com/JjuCa1qOy4UAAAPo/come-come-here.mp4";
+    "https://tenor.com/view/come-come-here-come-here-baby-couple-i-miss-you-gif-16637876";
 });
 
 noBtn.addEventListener("mouseover", () => {
