@@ -5,10 +5,11 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Come here baby";
+  question.innerHTML = "I Love You Baby Girl";
   gif.src =
-    "https://tenor.com/view/come-come-here-come-here-baby-couple-i-miss-you-gif-16637876";
+    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
+
 
 noBtn.addEventListener("mouseover", () => {
   const noBtnRect = noBtn.getBoundingClientRect();
